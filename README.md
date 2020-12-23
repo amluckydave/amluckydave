@@ -1,4 +1,17 @@
-### Hi there 👋
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, nice to see you.</h1>
+
+<p align="left"> 
+  <img src="https://profile-counter.glitch.me/Holaplace/count.svg" />
+</p>
+
+<p>Yo, bro! Welcome to my page! </br> I'm 🌱 <b>Eliot</b>, junior software developer from <img src="https://www.flaticon.com/svg/static/icons/svg/197/197375.svg" width="13"/> <b>Shanghai, China</b>, currently studying in <b>SHU</b>. </p>
+
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=eliotxu&show_icons=true&theme=gruvbox)
+
+<h3>Things I code with</h3>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eliotxu&hide=javascript,html&layout=compact)](https://github.com/eliotxu)
 
 <!--
 **eliotxu/eliotxu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
