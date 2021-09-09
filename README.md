@@ -7,14 +7,14 @@
 <p>Yo, bro! Welcome to my page! </br> I'm 🌱 <b>Dave</b>, junior software developer from <b>XMU</b>, currently studying in <b>Void</b>. </p>
 
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=eliotxu&show_icons=true&theme=gruvbox)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=amluckydave&show_icons=true&theme=gruvbox)
 
 <h3>Things I code with</h3>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eliotxu&hide=javascript,html&layout=compact)](https://github.com/eliotxu)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amluckydave&hide=javascript,html&layout=compact)](https://github.com/amluckydave)
 
 <!--
-**eliotxu/eliotxu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**amluckydave/amluckydave** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
