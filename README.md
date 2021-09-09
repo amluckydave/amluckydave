@@ -4,7 +4,7 @@
   <img src="https://profile-counter.glitch.me/Holaplace/count.svg" />
 </p>
 
-<p>Yo, bro! Welcome to my page! </br> I'm 🌱 <b>Dave</b>, junior software developer from <img="https://s0.60logo.com/uploads/items/images/soft/171227/xmu.svg" size =18> <b>XMU, China</b>, currently studying in <b>Void</b>. </p>
+<p>Yo, bro! Welcome to my page! </br> I'm 🌱 <b>Dave</b>, junior software developer from <img src="https://s0.60logo.com/uploads/items/images/soft/171227/xmu.svg" width ="18"/> <b>XMU, China</b>, currently studying in <b>Void</b>. </p>
 
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=eliotxu&show_icons=true&theme=gruvbox)
