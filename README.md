@@ -1,9 +1,5 @@
 <h1> Hey, nice to see you.</h1>
 
-<p align="left"> 
-  <img src="https://profile-counter.glitch.me/amluckydave/count.svg" />
-</p>
-
 <p>Yo, bro! Welcome to my page! </br> I'm 🌱 <b>Dave</b>, junior software developer from <b>XMU</b>, currently studying in <b>Void</b>. </p>
 
 
