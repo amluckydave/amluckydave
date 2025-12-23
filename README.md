@@ -1,4 +1,4 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>Hey, nice to see you.</h1>
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, nice to see you.</h1>
 
 <p>Yo, bro! Welcome to my page! </br> I'm 🌱 <b>Dave</b>, junior software developer from <b>XMU</b>, currently studying in <b>Void</b>. </p>
 
