@@ -2,12 +2,11 @@
 
 <p>Yo, bro! Welcome to my page! </br> I'm 🌱 <b>Dave</b>, junior software developer from <b>XMU</b>, currently studying in <b>Void</b>. </p>
 
-
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=amluckydave&show_icons=true&theme=gruvbox)
-
 <h3>Things I code with</h3>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amluckydave&hide=javascript,html&layout=compact)](https://github.com/amluckydave)
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6DDCCF&background=FF52BC00&width=610&lines=木叶飞舞之处，火之意志生生不息." alt="Typing SVG" /></a>
 
 <!--
 **amluckydave/amluckydave** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
